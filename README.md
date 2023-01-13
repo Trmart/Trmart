@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Trmart
 - 👀 I’m interested in Computer Graphics, Developing Games, Developing Applications, and Music Composition
 - 🌱 I’m currently finishing out my BS at the University of Idaho, Majoring in Comp Sci and Minoring in Mathematics
-- ✨ I'm a Full-Time Game Programmer @ Polymorphic Games 
 - ✨ I'm currently programming in C, C++, C#, and Python
 - 💞️ I’m looking to collaborate on intermidiate coding projects and game development
 
